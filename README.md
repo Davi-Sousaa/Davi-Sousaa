@@ -37,7 +37,7 @@ Atualmente estou construindo minha base em **lógica de programação**, **Pytho
 
 Meu primeiro projeto desenvolvido para praticar **lógica de programação**, operações matemáticas e fundamentos de Python.
 
-🔗 [Ver projeto](#)
+🔗 [Ver projeto](https://davi-sousaa.github.io/calculator.html)
 
 ---
 
