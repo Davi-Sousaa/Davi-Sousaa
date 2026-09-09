@@ -46,7 +46,3 @@ Meu primeiro projeto desenvolvido para praticar **lógica de programação**, op
 Confira meu portfólio para conhecer mais sobre mim, meus projetos e minha evolução como desenvolvedor.
 
 🔗 **[Acessar meu portfólio](https://davi-sousaa.github.io/)**
-
----
-
-### 📚 Sempre aprendendo. Sempre evoluindo. 🚀
