@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou Davi Sousa
 
-### 💻 Desenvolvedor em formação
+### 💻 Desenvolvedor em Formação
 
 Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e pelo desenvolvimento de soluções através da programação.
-
 Atualmente estou construindo minha base em **lógica de programação**, **Python** e **Java**, buscando evoluir constantemente através de projetos práticos e novos desafios.
 
 ---
