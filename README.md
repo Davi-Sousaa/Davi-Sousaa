@@ -7,7 +7,7 @@ Atualmente estou construindo minha base em **lógica de programação**, **Pytho
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre Mim
 
 * 🧩 Interesse em **Lógica de Programação**
 * 🐍 Estudando e desenvolvendo projetos com **Python**
@@ -17,7 +17,7 @@ Atualmente estou construindo minha base em **lógica de programação**, **Pytho
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias e Conhecimentos
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
