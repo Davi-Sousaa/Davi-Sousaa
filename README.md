@@ -2,9 +2,9 @@
 
 ### 💻 Desenvolvedor em Formação
 
-Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e pelo desenvolvimento de soluções através da programação.
-Atualmente estou construindo minha base em **lógica de programação**, **Python** e **Java**, buscando evoluir constantemente através de projetos práticos e novos desafios.
+Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e por resolver problemas através da programação. Estou construindo minha base em lógica de programação, **Python** e **Java**, e evoluo praticando: cada projeto é uma chance de aprender algo novo e sair da zona de conforto.
 
+Busco crescer de forma constante, encarando desafios reais que me ajudem a entender não só como programar, mas por que cada solução funciona.
 ---
 
 ## 🧠 Sobre Mim
